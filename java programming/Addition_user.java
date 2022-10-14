@@ -5,9 +5,9 @@ public class Addition_user{
         int b;
         int c;
         Scanner d=new Scanner(System.in);
-        System.out.print("The value is : ");
+        System.out.print("  Enter the value is : ");
         a=d.nextInt();
-        System.out.print("The value is : ");
+        System.out.print(" Enter the value is : ");
         b=d.nextInt();
         c=a+b;
 
